@@ -1,9 +1,17 @@
 # Coffee bean defect percentage
 
-This is a binary bean-level model. It learns `Defect` from the 17 folders in
-the defect ZIP and `Good` from the `Dark`, `Green`, `Light`, and `Medium` image
-folders in the healthy ZIP. For a photo containing several beans, OpenCV first
-finds individual beans, then the model classifies each crop.
+Machine Learning and Computer Vision system for detecting and classifying visible defects in Ethiopian green coffee beans.
+
+## Research Question
+
+Can a low-cost computer vision system automatically detect and classify
+visible defects in Ethiopian green coffee beans from digital images?
+
+## Project Objective
+
+The objective of this project is to develop and evaluate a machine learning
+system that can identify visible defects in Ethiopian green coffee beans
+using digital images.
 
 ## Install
 
