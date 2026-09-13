@@ -1,4 +1,4 @@
-# Coffee bean defect percentage
+# Ethiopian Green Coffee Bean Defect Detection Using Computer Vision
 
 Machine Learning and Computer Vision system for detecting and classifying visible defects in Ethiopian green coffee beans.
 
