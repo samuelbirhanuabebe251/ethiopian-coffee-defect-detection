@@ -2,7 +2,7 @@
 
 Machine Learning and Computer Vision system for detecting and classifying visible defects in Ethiopian green coffee beans.
 
-## Research Question
+## My Research Question
 
 Can a low-cost computer vision system automatically detect and classify
 visible defects in Ethiopian green coffee beans from digital images?
