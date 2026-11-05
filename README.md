@@ -30,7 +30,7 @@ python3 app.py train \
 The command prints a held-out classification report and writes
 `coffee_defect_model.joblib`.
 
-## Score a photo
+## Score a photos
 
 ```bash
 python3 app.py predict "/Users/apple/Downloads/Normales.jpg"
